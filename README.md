@@ -38,6 +38,7 @@ Region-based Deep Convolutional Networks are exciting tools, enabling software d
   * Add input_dir and ouput_dir directory in test_frcnn.py
     
     parser.add_option("-d", "--input_dir", dest="input_dir", default=~~"F:/counting~~/outputs")
+    
     parser.add_option("-u", "--output_dir", dest="output_dir", default=~~"F:/counting~~/outputs")
   * run
     
