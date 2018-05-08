@@ -26,5 +26,18 @@ Region-based Deep Convolutional Networks are exciting tools, enabling software d
   * Videos
     * test.mp4
   * test_frcnn.py
-  * teain_frcnn.py
+  * train_frcnn.py
   
+### Dependencies
+  * Keras
+  * Imutils
+  * cv2
+  * Numpy
+                  
+### How to Run
+  * Add input_dir and ouput_dir directory in test_frcnn.py
+    parser.add_option("-d", "--input_dir", dest="input_dir", default=~~"F:/counting~~/outputs")
+    parser.add_option("-u", "--output_dir", dest="output_dir", default=~~"F:/counting~~/outputs")
+  * run
+    python test_frcnn.py --input_file videos/test.mp4 --output_file outputs/output4.mp4 --frame_rate=25
+    
