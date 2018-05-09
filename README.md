@@ -6,6 +6,16 @@ In this case we practice about Counting and Objecct detection using keras and fr
 
 Region-based Deep Convolutional Networks are exciting tools, enabling software developers to solve many interesting problems. The presented solution just scratches the surface. By fine-tuning the network for the particular data set or using transfer learning from other trained models, we can achieve high accuracy and speed while detecting objects.
 
+### Architechture
+- Faster R-CNN
+- 
+  ![Faster R-CNN](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/faster-rcnn.png)
+
+- Region Proposal Network
+- 
+  ![RPN](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/RPN.png)
+
+
 ### Structure
 * Counting and Object Detection
   * keras_frcnn
