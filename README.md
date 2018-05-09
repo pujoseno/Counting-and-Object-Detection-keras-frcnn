@@ -43,7 +43,10 @@ Region-based Deep Convolutional Networks are exciting tools, enabling software d
   * Imutils
   * cv2
   * Numpy
-                  
+  
+### Pretrained-model
+  Download [here](https://drive.google.com/file/d/1xNjHc2bLwRc_HkqwtIwIKApP50r0-vOw/view)
+  
 ### How to Run
   * Add input_dir and ouput_dir directory in test_frcnn.py
     
